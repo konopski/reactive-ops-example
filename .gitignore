@@ -1,0 +1,9 @@
+Thumbs.db
+target/
+.DS_Store
+.settings/
+.project
+.classpath
+.idea
+*.iml
+.externalToolBuilders
